@@ -7,8 +7,8 @@ public class RandomAction{
 			int turn = (int)(Math.random()*360+1);
 			int soundM = (int)(Math.random()*(135-31)+32);
 			System.out.println("Before Move: " + move +" Turn: "+turn + " Sound: "+soundM);
-			if(a.getDistance() < move) {
-				move -= a.getDistance();
+			if(a.getDistance() <= move) {
+				move = a.getDistance();
 			}
 			System.out.println("After Move: " + move +" Turn: "+turn + " Sound: "+soundM);
 			System.out.println("Orientation: " + a.getOrientation());
