@@ -1,5 +1,7 @@
 # Testing-Out-Finch-Bird-Bot
 
+I wanted to learn how to code so that the Finch Bird Bot will work what I have in mind and applying my skill in 3D modeling to create a simple mini game for people to play with.
+
 ## Code to Highlight
 
 <img width="696" alt="Screenshot 2025-06-12 at 11 37 20 AM" src="https://github.com/user-attachments/assets/0c1cc102-246c-40eb-894b-3b39bcd5a0c9" />
