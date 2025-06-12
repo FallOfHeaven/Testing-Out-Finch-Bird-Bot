@@ -1,6 +1,6 @@
 # Testing-Out-Finch-Bird-Bot
 
-I wanted to learn how to code so that the Finch Bird Bot will work what I have in mind and applying my skill in 3D modeling to create a simple mini game for people to play with.
+I wanted to learn how to code so that the Finch Bird Bot will do what I have in mind and applying my skill in 3D modeling to create a simple mini game for people to play with.
 
 ## Code to Highlight
 
